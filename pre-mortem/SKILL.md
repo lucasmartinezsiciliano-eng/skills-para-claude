@@ -1,6 +1,6 @@
 ---
 name: pre-mortem
-description: Úsala antes de lanzar, invertir o decidir algo caro, o si piden «pre-mortem» o «qué puede salir mal»: 5 agentes imaginan que fracasó y dan las 5 causas, cada una con una prueba barata.
+description: "Úsala antes de lanzar, invertir o decidir algo caro, o si piden «pre-mortem» o «qué puede salir mal»: 5 agentes imaginan que fracasó y dan las 5 causas, cada una con una prueba barata."
 ---
 
 # Pre-mortem: la autopsia antes de que pase

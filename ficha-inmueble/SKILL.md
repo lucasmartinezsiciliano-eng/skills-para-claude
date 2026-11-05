@@ -1,6 +1,6 @@
 ---
 name: ficha-inmueble
-description: Úsala cuando den la dirección o la referencia catastral de un piso, casa, local o edificio en España: saca de los registros públicos todo lo que se sabe de él, con la fuente de cada dato.
+description: "Úsala cuando den la dirección o la referencia catastral de un piso, casa, local o edificio en España: saca de los registros públicos todo lo que se sabe de él, con la fuente de cada dato."
 ---
 
 # Ficha del inmueble: lo que dicen los registros públicos
